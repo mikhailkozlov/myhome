@@ -15,22 +15,61 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-$app->group(['prefix' => 'api/v1'],function() use ($app) {
-    resource('power', 'PowerController');
-    resource('energy', 'EnergyController');
+$app->group(['prefix' => 'api/v1'], function () use ($app) {
+    resource('power', 'PowerController', 'api.power');
+    resource('energy', 'EnergyController', 'api.energy');
 });
 
-
-function resource($uri, $controller)
+/**
+ * Build Controller resource
+ *
+ * @param $uri
+ * @param $controller
+ * @param null $prefix
+ */
+function resource($uri, $controller, $prefix = null)
 {
-	//$verbs = array('GET', 'HEAD', 'POST', 'PUT', 'PATCH', 'DELETE');
-	global $app;
-	$app->get($uri, 'App\Http\Controllers\\'.$controller.'@index');
-	$app->get($uri.'/create', 'App\Http\Controllers\\'.$controller.'@create');
-	$app->post($uri, 'App\Http\Controllers\\'.$controller.'@store');
-	$app->get($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@show');
-	$app->get($uri.'/{id}/edit', 'App\Http\Controllers\\'.$controller.'@edit');
-	$app->put($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@update');
-	$app->patch($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@update');
-	$app->delete($uri.'/{id}', 'App\Http\Controllers\\'.$controller.'@destroy');
+    //$verbs = array('GET', 'HEAD', 'POST', 'PUT', 'PATCH', 'DELETE');
+    global $app;
+
+    // default prefix
+    if (is_null($prefix)) {
+        $prefix = rtrim(strtolower($controller), 'controller');
+    }
+
+
+    $app->get($uri, [
+        'as'   => $prefix . '.index',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@index'
+    ]);
+
+    $app->get($uri . '/create', [
+        'as'   => $prefix . '.create',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@create'
+    ]);
+    $app->post($uri, [
+            'as'   => $prefix . '.store',
+            'uses' => 'App\Http\Controllers\\' . $controller . '@store'
+        ]
+    );
+    $app->get($uri . '/{id}', [
+        'as'   => $prefix . '.show',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@show'
+    ]);
+    $app->get($uri . '/{id}/edit', [
+        'as'   => $prefix . '.edit',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@edit'
+    ]);
+    $app->put($uri . '/{id}', [
+        'as'   => $prefix . '.update',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@update'
+    ]);
+    $app->patch($uri . '/{id}', [
+        'as'   => $prefix . '.update',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@update'
+    ]);
+    $app->delete($uri . '/{id}', [
+        'as'   => $prefix . '.destroy',
+        'uses' => 'App\Http\Controllers\\' . $controller . '@destroy'
+    ]);
 }
