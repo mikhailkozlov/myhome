@@ -40,11 +40,10 @@ zwave.on('value changed', function (nodeid, comclass, value) {
             'API-TOKEN': process.env.API_TOKEN
         }
     }, function (err, httpResponse, body) {
-        console.log(err); // MK Logger
         // in most cases we do not care, but we want to see error
-        //if (httpResponse.statusCode != 200) {
-        //    console.log('Error pushing data: ' + httpResponse.statusMessage); // MK Logger
-        //}
+        if (httpResponse.statusCode != 200) {
+            console.log('Error pushing data: ' + httpResponse.statusMessage); // MK Logger
+        }
     });
 });
 
