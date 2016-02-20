@@ -3,7 +3,7 @@ Description=Energy Monitor
 After=network.target
 
 [Service]
-ExecStart=/home/pi/myhome/s.js
+ExecStart=/home/pi/myhome/service.js
 Restart=always
 User=nobody
 Group=nobody
