@@ -15,7 +15,7 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-$app->group(['prefix' => 'api/v1'], function () use ($app) {
+$app->group(['prefix' => 'api/v1', 'middleware' => 'api'], function () use ($app) {
     resource('power', 'PowerController', 'api.power');
     resource('energy', 'EnergyController', 'api.energy');
 });
