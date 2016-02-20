@@ -9,6 +9,7 @@
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
     "nan": "^2.1.0",
+    "openzwave-shared": "v1.1.7",
     "request": "^2.65.0",
     "winston": "^2.1.0"
   }
