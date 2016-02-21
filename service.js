@@ -6,11 +6,16 @@ var OZW = require('openzwave-shared'), // load z-wave
 
 var zwave = new OZW({
     Logging: false,     // disable file logging (OZWLog.txt)
-    ConsoleOutput: false // disable console logging
+    ConsoleOutput: false, // disable console logging
+    SaveLogLevel: 0,
+    QueueLogLevel: 0,
+    DumpTriggerLevel: 0
 });
 
+console.log('Loading...');
+
 zwave.on('scan complete', function () {
-    console.log('Scan complete. Listening for events. Hit ^C to finish.');
+    console.log('Scan complete. Listening for events. Hit ctrl+C to finish.');
 });
 
 zwave.on('driver failed', function () {
@@ -42,7 +47,7 @@ zwave.on('value changed', function (nodeid, comclass, value) {
     }, function (err, httpResponse, body) {
         // in most cases we do not care, but we want to see error
         if (httpResponse.statusCode != 200) {
-            console.log('Error pushing data: ' + httpResponse.statusMessage); // MK Logger
+//            console.log('Error pushing data: ' + httpResponse.statusMessage); // MK Logger
         }
     });
 });
