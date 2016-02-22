@@ -36,7 +36,7 @@ zwave.on('value changed', function (nodeid, comclass, value) {
 
     // send data to home server
     request.post({
-        url: process.env.API_SERVER + '/api/v1/energy', form: {
+        url: process.env.API_SERVER + '/api/v1/' + value.label.toLowerCase(), form: {
             sensor_id: nodeid,
             node: nodeid,
             instance: value.instance,
