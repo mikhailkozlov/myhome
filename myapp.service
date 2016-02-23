@@ -1,0 +1,16 @@
+[Unit]
+Description=Energy Monitor
+After=network.target
+
+[Service]
+ExecStart=/home/pi/myhome/service.js
+Restart=always
+RestartSec=200
+User=pi
+Group=pi
+Environment=PATH=/usr/bin:/usr/local/bin
+Environment=NODE_ENV=production
+WorkingDirectory=/home/pi/myhome/
+
+[Install]
+WantedBy=multi-user.target
