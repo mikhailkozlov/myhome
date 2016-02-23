@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "firebase": "^2.3.1",
+    "laravel-elixir": "^3.0.0",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "nan": "^2.1.0",
+    "request": "^2.65.0",
+    "winston": "^2.1.0"
+  }
+}

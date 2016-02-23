@@ -1,0 +1,12 @@
+/log
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.DS_Store
+OZW_Log.txt
+options.xml
+zwcfg_0xe2c84759.xml
+zwscene.xml
