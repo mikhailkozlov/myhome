@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\EnergyRequest;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use App\Energy;
 use App\Http\Requests;
@@ -30,15 +31,31 @@ class EnergyController extends Controller
      */
     public function store(Request $request)
     {
-	$this->validate($request, [
-		'sensor_id' => 'required|numeric',
-        	'node'      => 'required|numeric',
-	        'instance'  => 'required|numeric|size:1',
-        	'value'     => 'required|numeric|min:1'
-	]);
-        //
-        $meter = new Energy($request->input());
+        $this->validate($request, [
+            'sensor_id' => 'required|numeric',
+            'node'      => 'required|numeric',
+            'instance'  => 'required|numeric|size:1',
+            'value'     => 'required|numeric|min:1'
+        ]);
 
+
+        // safety net
+        // check if we insert less then 2 min apart, difference should not be more then 2kW
+        // get last inserted value
+        $last = Energy::where('node', $request->node)->orderBy('created_at', 'DESC')->first();
+        // date now
+        $now = Carbon::now();
+        // compare
+        if ($last->created_at->diffInMinutes($now) <= 2 && abs($request->value - $last->first()->value) > 2) {
+
+            return response()->json([
+                'error'   => 'Value is ' . $request->value,
+                'message' => 'check if we insert less then 2 min apart, difference should not be more then 2kW'
+            ], 400);
+        }
+
+        // insert value
+        $meter = new Energy($request->input());
         $meter->save();
 
         return response()->json($meter);
@@ -63,7 +80,7 @@ class EnergyController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request $request
-     * @param  int                      $id
+     * @param  int $id
      *
      * @return \Illuminate\Http\Response
      */
