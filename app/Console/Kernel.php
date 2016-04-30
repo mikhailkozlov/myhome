@@ -25,15 +25,14 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-//        // run stats to date
-//        $schedule->command('data:aggregate today')
-//            ->everyThirtyMinutes();
-//        // once a day roll up
-//        $schedule->command('data:aggregate day')
-//            ->dailyAt('00:05');
-//
-//        // weekly roll up
-//        $schedule->command('data:aggregate week')
-//            ->weekly()->mondays()->at('00:10');
+        // run stats to date
+        $schedule->command('data:aggregate today')
+            ->everyThirtyMinutes();
+        // once a day roll up        
+	$schedule->command('data:aggregate day')
+            ->dailyAt('00:05');
+        // weekly roll up
+        $schedule->command('data:aggregate week')
+            ->weekly()->mondays()->at('00:10');
     }
 }
