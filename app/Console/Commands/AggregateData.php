@@ -220,7 +220,7 @@ class AggregateData extends Command
         // for last month aggregation, we need to know the year
         $now  = Carbon::now();
         $year = $now->year;
-        if ($now->month = 1) {
+        if ($now->month == 1) {
             $year = $year - 1;
         }
 
