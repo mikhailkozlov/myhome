@@ -5,7 +5,7 @@ var OZW = require('openzwave-shared'),
     interval = 120000; // 120000 = 2 min = 120 sec
 
 var zwave = new OZW({
-    Logging: false,     // disable file logging (OZWLog.txt)
+    Logging: true,     // disable file logging (OZWLog.txt)
     ConsoleOutput: false // disable console logging
 });
 
@@ -27,4 +27,6 @@ process.on('SIGINT', function () {
     zwave.disconnect();
     process.exit();
 });
+
+
 

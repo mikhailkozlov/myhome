@@ -1,0 +1,1802 @@
+[
+	{
+		"vehicleStatisticsId": "1653585",
+		"dateTime": "Apr 14, 2016 at 7:10 AM EDT",
+		"tripDate": "Apr 14, 2016",
+		"distance": 42.25,
+		"averageSpeed": 26.1,
+		"totalConsumption": 5.14,
+		"travelTime": 99
+	},
+	{
+		"vehicleStatisticsId": "1658515",
+		"dateTime": "Apr 15, 2016 at 8:33 AM EDT",
+		"tripDate": "Apr 15, 2016",
+		"distance": 13.05,
+		"averageSpeed": 22.99,
+		"totalConsumption": 4.12,
+		"travelTime": 33
+	},
+	{
+		"vehicleStatisticsId": "1661576",
+		"dateTime": "Apr 15, 2016 at 4:28 PM EDT",
+		"tripDate": "Apr 15, 2016",
+		"distance": 21.75,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.82,
+		"travelTime": 52
+	},
+	{
+		"vehicleStatisticsId": "1665665",
+		"dateTime": "Apr 16, 2016 at 9:43 AM EDT",
+		"tripDate": "Apr 16, 2016",
+		"distance": 26.1,
+		"averageSpeed": 36.04,
+		"totalConsumption": 4.32,
+		"travelTime": 43
+	},
+	{
+		"vehicleStatisticsId": "1667013",
+		"dateTime": "Apr 16, 2016 at 4:58 PM EDT",
+		"tripDate": "Apr 16, 2016",
+		"distance": 86.37,
+		"averageSpeed": 36.04,
+		"totalConsumption": 4.6,
+		"travelTime": 144
+	},
+	{
+		"vehicleStatisticsId": "1675232",
+		"dateTime": "Apr 17, 2016 at 3:33 PM EDT",
+		"tripDate": "Apr 17, 2016",
+		"distance": 11.81,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.23,
+		"travelTime": 28
+	},
+	{
+		"vehicleStatisticsId": "1677512",
+		"dateTime": "Apr 18, 2016 at 8:48 AM EDT",
+		"tripDate": "Apr 18, 2016",
+		"distance": 11.81,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.41,
+		"travelTime": 26
+	},
+	{
+		"vehicleStatisticsId": "1682649",
+		"dateTime": "Apr 18, 2016 at 9:04 PM EDT",
+		"tripDate": "Apr 18, 2016",
+		"distance": 11.81,
+		"averageSpeed": 19.26,
+		"totalConsumption": 4.5,
+		"travelTime": 37
+	},
+	{
+		"vehicleStatisticsId": "1699277",
+		"dateTime": "Apr 20, 2016 at 7:29 PM EDT",
+		"tripDate": "Apr 20, 2016",
+		"distance": 16.16,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.41,
+		"travelTime": 35
+	},
+	{
+		"vehicleStatisticsId": "1704610",
+		"dateTime": "Apr 21, 2016 at 6:06 PM EDT",
+		"tripDate": "Apr 21, 2016",
+		"distance": 12.43,
+		"averageSpeed": 24.23,
+		"totalConsumption": 4.6,
+		"travelTime": 31
+	},
+	{
+		"vehicleStatisticsId": "1710237",
+		"dateTime": "Apr 21, 2016 at 8:20 PM EDT",
+		"tripDate": "Apr 21, 2016",
+		"distance": 8.7,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.82,
+		"travelTime": 20
+	},
+	{
+		"vehicleStatisticsId": "1714477",
+		"dateTime": "Apr 22, 2016 at 7:25 PM EDT",
+		"tripDate": "Apr 22, 2016",
+		"distance": 72.08,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.5,
+		"travelTime": 166
+	},
+	{
+		"vehicleStatisticsId": "1722446",
+		"dateTime": "Apr 23, 2016 at 9:08 AM EDT",
+		"tripDate": "Apr 23, 2016",
+		"distance": 22.99,
+		"averageSpeed": 37.9,
+		"totalConsumption": 4.41,
+		"travelTime": 36
+	},
+	{
+		"vehicleStatisticsId": "1721751",
+		"dateTime": "Apr 23, 2016 at 12:24 PM EDT",
+		"tripDate": "Apr 23, 2016",
+		"distance": 22.37,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.5,
+		"travelTime": 42
+	},
+	{
+		"vehicleStatisticsId": "1721759",
+		"dateTime": "Apr 23, 2016 at 12:25 PM EDT",
+		"tripDate": "Apr 23, 2016",
+		"distance": 22.37,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.5,
+		"travelTime": 42
+	},
+	{
+		"vehicleStatisticsId": "1729389",
+		"dateTime": "Apr 24, 2016 at 9:06 AM EDT",
+		"tripDate": "Apr 24, 2016",
+		"distance": 39.15,
+		"averageSpeed": 57.79,
+		"totalConsumption": 4.01,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "1728730",
+		"dateTime": "Apr 24, 2016 at 1:01 PM EDT",
+		"tripDate": "Apr 24, 2016",
+		"distance": 2.49,
+		"averageSpeed": 11.18,
+		"totalConsumption": 3.51,
+		"travelTime": 14
+	},
+	{
+		"vehicleStatisticsId": "1729667",
+		"dateTime": "Apr 24, 2016 at 3:37 PM EDT",
+		"tripDate": "Apr 24, 2016",
+		"distance": 42.87,
+		"averageSpeed": 34.8,
+		"totalConsumption": 4.12,
+		"travelTime": 73
+	},
+	{
+		"vehicleStatisticsId": "1735219",
+		"dateTime": "Apr 25, 2016 at 7:57 AM EDT",
+		"tripDate": "Apr 25, 2016",
+		"distance": 12.43,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.71,
+		"travelTime": 28
+	},
+	{
+		"vehicleStatisticsId": "1735928",
+		"dateTime": "Apr 25, 2016 at 6:52 PM EDT",
+		"tripDate": "Apr 25, 2016",
+		"distance": 22.37,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.12,
+		"travelTime": 51
+	},
+	{
+		"vehicleStatisticsId": "1743008",
+		"dateTime": "Apr 26, 2016 at 2:08 PM EDT",
+		"tripDate": "Apr 26, 2016",
+		"distance": 52.82,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.41,
+		"travelTime": 113
+	},
+	{
+		"vehicleStatisticsId": "1750299",
+		"dateTime": "Apr 27, 2016 at 7:24 AM EDT",
+		"tripDate": "Apr 27, 2016",
+		"distance": 11.81,
+		"averageSpeed": 24.23,
+		"totalConsumption": 4.32,
+		"travelTime": 30
+	},
+	{
+		"vehicleStatisticsId": "1751694",
+		"dateTime": "Apr 27, 2016 at 8:33 AM EDT",
+		"tripDate": "Apr 27, 2016",
+		"distance": 12.43,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.71,
+		"travelTime": 27
+	},
+	{
+		"vehicleStatisticsId": "1753647",
+		"dateTime": "Apr 27, 2016 at 7:11 PM EDT",
+		"tripDate": "Apr 27, 2016",
+		"distance": 32.93,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.23,
+		"travelTime": 71
+	},
+	{
+		"vehicleStatisticsId": "1763115",
+		"dateTime": "Apr 28, 2016 at 11:22 AM EDT",
+		"tripDate": "Apr 28, 2016",
+		"distance": 31.69,
+		"averageSpeed": 39.77,
+		"totalConsumption": 4.41,
+		"travelTime": 47
+	},
+	{
+		"vehicleStatisticsId": "1771513",
+		"dateTime": "Apr 29, 2016 at 5:39 PM EDT",
+		"tripDate": "Apr 29, 2016",
+		"distance": 55.92,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.5,
+		"travelTime": 137
+	},
+	{
+		"vehicleStatisticsId": "1779810",
+		"dateTime": "Apr 30, 2016 at 9:07 AM EDT",
+		"tripDate": "Apr 30, 2016",
+		"distance": 26.1,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.41,
+		"travelTime": 47
+	},
+	{
+		"vehicleStatisticsId": "1780099",
+		"dateTime": "Apr 30, 2016 at 12:07 PM EDT",
+		"tripDate": "Apr 30, 2016",
+		"distance": 21.75,
+		"averageSpeed": 44.12,
+		"totalConsumption": 4.32,
+		"travelTime": 30
+	},
+	{
+		"vehicleStatisticsId": "1785199",
+		"dateTime": "Apr 30, 2016 at 6:59 PM EDT",
+		"tripDate": "Apr 30, 2016",
+		"distance": 3.73,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.01,
+		"travelTime": 8
+	},
+	{
+		"vehicleStatisticsId": "1787194",
+		"dateTime": "May 01, 2016 at 11:06 AM EDT",
+		"tripDate": "May 01, 2016",
+		"distance": 12.43,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.82,
+		"travelTime": 22
+	},
+	{
+		"vehicleStatisticsId": "1792776",
+		"dateTime": "May 02, 2016 at 9:32 AM EDT",
+		"tripDate": "May 02, 2016",
+		"distance": 3.73,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.6,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "1801815",
+		"dateTime": "May 03, 2016 at 12:40 PM EDT",
+		"tripDate": "May 03, 2016",
+		"distance": 22.99,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.71,
+		"travelTime": 43
+	},
+	{
+		"vehicleStatisticsId": "1807540",
+		"dateTime": "May 03, 2016 at 9:04 PM EDT",
+		"tripDate": "May 03, 2016",
+		"distance": 16.16,
+		"averageSpeed": 24.23,
+		"totalConsumption": 4.71,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "1812155",
+		"dateTime": "May 04, 2016 at 9:20 AM EDT",
+		"tripDate": "May 04, 2016",
+		"distance": 11.18,
+		"averageSpeed": 22.99,
+		"totalConsumption": 4.32,
+		"travelTime": 30
+	},
+	{
+		"vehicleStatisticsId": "1814205",
+		"dateTime": "May 04, 2016 at 5:20 PM EDT",
+		"tripDate": "May 04, 2016",
+		"distance": 25.48,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.93,
+		"travelTime": 56
+	},
+	{
+		"vehicleStatisticsId": "1816818",
+		"dateTime": "May 04, 2016 at 6:48 PM EDT",
+		"tripDate": "May 04, 2016",
+		"distance": 27.96,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.82,
+		"travelTime": 64
+	},
+	{
+		"vehicleStatisticsId": "1820484",
+		"dateTime": "May 05, 2016 at 9:20 AM EDT",
+		"tripDate": "May 05, 2016",
+		"distance": 12.43,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.82,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "1822130",
+		"dateTime": "May 05, 2016 at 3:23 PM EDT",
+		"tripDate": "May 05, 2016",
+		"distance": 47.85,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.23,
+		"travelTime": 88
+	},
+	{
+		"vehicleStatisticsId": "1826342",
+		"dateTime": "May 05, 2016 at 8:01 PM EDT",
+		"tripDate": "May 05, 2016",
+		"distance": 9.32,
+		"averageSpeed": 24.23,
+		"totalConsumption": 3.91,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "1830688",
+		"dateTime": "May 06, 2016 at 5:38 PM EDT",
+		"tripDate": "May 06, 2016",
+		"distance": 57.17,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.5,
+		"travelTime": 120
+	},
+	{
+		"vehicleStatisticsId": "1839359",
+		"dateTime": "May 07, 2016 at 8:39 AM EDT",
+		"tripDate": "May 07, 2016",
+		"distance": 24.23,
+		"averageSpeed": 42.25,
+		"totalConsumption": 3.81,
+		"travelTime": 34
+	},
+	{
+		"vehicleStatisticsId": "1839376",
+		"dateTime": "May 07, 2016 at 8:51 AM EDT",
+		"tripDate": "May 07, 2016",
+		"distance": 26.1,
+		"averageSpeed": 39.15,
+		"totalConsumption": 3.91,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "1839730",
+		"dateTime": "May 07, 2016 at 12:24 PM EDT",
+		"tripDate": "May 07, 2016",
+		"distance": 21.75,
+		"averageSpeed": 42.25,
+		"totalConsumption": 4.41,
+		"travelTime": 31
+	},
+	{
+		"vehicleStatisticsId": "1846505",
+		"dateTime": "May 08, 2016 at 9:59 AM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 3.11,
+		"averageSpeed": 26.72,
+		"totalConsumption": 3.81,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "1849142",
+		"dateTime": "May 08, 2016 at 2:35 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 8.08,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.82,
+		"travelTime": 17
+	},
+	{
+		"vehicleStatisticsId": "1848113",
+		"dateTime": "May 08, 2016 at 3:40 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 18.02,
+		"averageSpeed": 32.31,
+		"totalConsumption": 5.55,
+		"travelTime": 34
+	},
+	{
+		"vehicleStatisticsId": "1848114",
+		"dateTime": "May 08, 2016 at 3:40 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 18.02,
+		"averageSpeed": 32.31,
+		"totalConsumption": 5.55,
+		"travelTime": 34
+	},
+	{
+		"vehicleStatisticsId": "1848725",
+		"dateTime": "May 08, 2016 at 4:08 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 19.88,
+		"averageSpeed": 32.31,
+		"totalConsumption": 5.22,
+		"travelTime": 37
+	},
+	{
+		"vehicleStatisticsId": "1849001",
+		"dateTime": "May 08, 2016 at 6:05 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 21.75,
+		"averageSpeed": 32.93,
+		"totalConsumption": 5.22,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "1849023",
+		"dateTime": "May 08, 2016 at 6:16 PM EDT",
+		"tripDate": "May 08, 2016",
+		"distance": 23.61,
+		"averageSpeed": 32.31,
+		"totalConsumption": 5.14,
+		"travelTime": 44
+	},
+	{
+		"vehicleStatisticsId": "1853243",
+		"dateTime": "May 09, 2016 at 5:44 PM EDT",
+		"tripDate": "May 09, 2016",
+		"distance": 57.79,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.82,
+		"travelTime": 131
+	},
+	{
+		"vehicleStatisticsId": "1862023",
+		"dateTime": "May 10, 2016 at 5:04 PM EDT",
+		"tripDate": "May 10, 2016",
+		"distance": 72.7,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.23,
+		"travelTime": 130
+	},
+	{
+		"vehicleStatisticsId": "1876261",
+		"dateTime": "May 11, 2016 at 5:54 PM EDT",
+		"tripDate": "May 11, 2016",
+		"distance": 7.46,
+		"averageSpeed": 16.78,
+		"totalConsumption": 3.61,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "1879275",
+		"dateTime": "May 11, 2016 at 9:14 PM EDT",
+		"tripDate": "May 11, 2016",
+		"distance": 6.84,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.32,
+		"travelTime": 16
+	},
+	{
+		"vehicleStatisticsId": "1884511",
+		"dateTime": "May 12, 2016 at 3:15 PM EDT",
+		"tripDate": "May 12, 2016",
+		"distance": 13.67,
+		"averageSpeed": 21.13,
+		"totalConsumption": 4.01,
+		"travelTime": 38
+	},
+	{
+		"vehicleStatisticsId": "1886051",
+		"dateTime": "May 12, 2016 at 8:18 PM EDT",
+		"tripDate": "May 12, 2016",
+		"distance": 1.24,
+		"averageSpeed": 13.05,
+		"totalConsumption": 4.23,
+		"travelTime": 6
+	},
+	{
+		"vehicleStatisticsId": "1889651",
+		"dateTime": "May 13, 2016 at 6:03 PM EDT",
+		"tripDate": "May 13, 2016",
+		"distance": 42.87,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.71,
+		"travelTime": 90
+	},
+	{
+		"vehicleStatisticsId": "1896738",
+		"dateTime": "May 13, 2016 at 8:16 PM EDT",
+		"tripDate": "May 13, 2016",
+		"distance": 1.24,
+		"averageSpeed": 21.13,
+		"totalConsumption": 2.81,
+		"travelTime": 3
+	},
+	{
+		"vehicleStatisticsId": "1899077",
+		"dateTime": "May 14, 2016 at 8:56 PM EDT",
+		"tripDate": "May 14, 2016",
+		"distance": 38.52,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.71,
+		"travelTime": 87
+	},
+	{
+		"vehicleStatisticsId": "1904526",
+		"dateTime": "May 14, 2016 at 9:07 PM EDT",
+		"tripDate": "May 14, 2016",
+		"distance": 1.86,
+		"averageSpeed": 16.16,
+		"totalConsumption": 4.6,
+		"travelTime": 6
+	},
+	{
+		"vehicleStatisticsId": "1907317",
+		"dateTime": "May 15, 2016 at 2:17 PM EDT",
+		"tripDate": "May 15, 2016",
+		"distance": 29.83,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.41,
+		"travelTime": 62
+	},
+	{
+		"vehicleStatisticsId": "1911932",
+		"dateTime": "May 16, 2016 at 9:03 AM EDT",
+		"tripDate": "May 16, 2016",
+		"distance": 11.18,
+		"averageSpeed": 21.13,
+		"totalConsumption": 4.32,
+		"travelTime": 32
+	},
+	{
+		"vehicleStatisticsId": "1916462",
+		"dateTime": "May 16, 2016 at 4:05 PM EDT",
+		"tripDate": "May 16, 2016",
+		"distance": 12.43,
+		"averageSpeed": 29.83,
+		"totalConsumption": 5.01,
+		"travelTime": 24
+	},
+	{
+		"vehicleStatisticsId": "1918531",
+		"dateTime": "May 16, 2016 at 6:26 PM EDT",
+		"tripDate": "May 16, 2016",
+		"distance": 1.86,
+		"averageSpeed": 31.07,
+		"totalConsumption": 5.92,
+		"travelTime": 3
+	},
+	{
+		"vehicleStatisticsId": "1921774",
+		"dateTime": "May 17, 2016 at 8:52 AM EDT",
+		"tripDate": "May 17, 2016",
+		"distance": 6.21,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.41,
+		"travelTime": 12
+	},
+	{
+		"vehicleStatisticsId": "1925256",
+		"dateTime": "May 17, 2016 at 11:21 AM EDT",
+		"tripDate": "May 17, 2016",
+		"distance": 6.21,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.23,
+		"travelTime": 15
+	},
+	{
+		"vehicleStatisticsId": "1925871",
+		"dateTime": "May 17, 2016 at 2:04 PM EDT",
+		"tripDate": "May 17, 2016",
+		"distance": 9.32,
+		"averageSpeed": 21.75,
+		"totalConsumption": 5.14,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "1926471",
+		"dateTime": "May 18, 2016 at 7:46 AM EDT",
+		"tripDate": "May 18, 2016",
+		"distance": 31.69,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.82,
+		"travelTime": 62
+	},
+	{
+		"vehicleStatisticsId": "1930822",
+		"dateTime": "May 18, 2016 at 8:47 AM EDT",
+		"tripDate": "May 18, 2016",
+		"distance": 11.18,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.82,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "1936205",
+		"dateTime": "May 18, 2016 at 4:30 PM EDT",
+		"tripDate": "May 18, 2016",
+		"distance": 15.53,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.93,
+		"travelTime": 37
+	},
+	{
+		"vehicleStatisticsId": "1942234",
+		"dateTime": "May 19, 2016 at 1:44 PM EDT",
+		"tripDate": "May 19, 2016",
+		"distance": 26.1,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.71,
+		"travelTime": 55
+	},
+	{
+		"vehicleStatisticsId": "1947297",
+		"dateTime": "May 19, 2016 at 8:01 PM EDT",
+		"tripDate": "May 19, 2016",
+		"distance": 9.32,
+		"averageSpeed": 21.75,
+		"totalConsumption": 5.01,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "1953482",
+		"dateTime": "May 20, 2016 at 12:14 PM EDT",
+		"tripDate": "May 20, 2016",
+		"distance": 11.81,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.5,
+		"travelTime": 21
+	},
+	{
+		"vehicleStatisticsId": "1954807",
+		"dateTime": "May 20, 2016 at 4:32 PM EDT",
+		"tripDate": "May 20, 2016",
+		"distance": 11.81,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.32,
+		"travelTime": 22
+	},
+	{
+		"vehicleStatisticsId": "1961218",
+		"dateTime": "May 21, 2016 at 8:20 AM EDT",
+		"tripDate": "May 21, 2016",
+		"distance": 22.37,
+		"averageSpeed": 47.22,
+		"totalConsumption": 4.01,
+		"travelTime": 28
+	},
+	{
+		"vehicleStatisticsId": "1962378",
+		"dateTime": "May 21, 2016 at 12:09 PM EDT",
+		"tripDate": "May 21, 2016",
+		"distance": 22.37,
+		"averageSpeed": 42.25,
+		"totalConsumption": 3.91,
+		"travelTime": 31
+	},
+	{
+		"vehicleStatisticsId": "1961991",
+		"dateTime": "May 21, 2016 at 3:02 PM EDT",
+		"tripDate": "May 21, 2016",
+		"distance": 6.21,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.41,
+		"travelTime": 12
+	},
+	{
+		"vehicleStatisticsId": "1963404",
+		"dateTime": "May 21, 2016 at 6:42 PM EDT",
+		"tripDate": "May 21, 2016",
+		"distance": 13.67,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.32,
+		"travelTime": 28
+	},
+	{
+		"vehicleStatisticsId": "1965027",
+		"dateTime": "May 21, 2016 at 9:45 PM EDT",
+		"tripDate": "May 21, 2016",
+		"distance": 6.84,
+		"averageSpeed": 27.96,
+		"totalConsumption": 3.91,
+		"travelTime": 14
+	},
+	{
+		"vehicleStatisticsId": "1966070",
+		"dateTime": "May 22, 2016 at 12:03 AM EDT",
+		"tripDate": "May 22, 2016",
+		"distance": 4.35,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.93,
+		"travelTime": 10
+	},
+	{
+		"vehicleStatisticsId": "1967464",
+		"dateTime": "May 22, 2016 at 2:27 AM EDT",
+		"tripDate": "May 22, 2016",
+		"distance": 2.49,
+		"averageSpeed": 26.1,
+		"totalConsumption": 3.31,
+		"travelTime": 5
+	},
+	{
+		"vehicleStatisticsId": "1967669",
+		"dateTime": "May 22, 2016 at 4:30 PM EDT",
+		"tripDate": "May 22, 2016",
+		"distance": 45.98,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.6,
+		"travelTime": 103
+	},
+	{
+		"vehicleStatisticsId": "1971564",
+		"dateTime": "May 22, 2016 at 7:26 PM EDT",
+		"tripDate": "May 22, 2016",
+		"distance": 40.39,
+		"averageSpeed": 49.71,
+		"totalConsumption": 3.51,
+		"travelTime": 48
+	},
+	{
+		"vehicleStatisticsId": "1974196",
+		"dateTime": "May 23, 2016 at 8:19 AM EDT",
+		"tripDate": "May 23, 2016",
+		"distance": 11.81,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.71,
+		"travelTime": 24
+	},
+	{
+		"vehicleStatisticsId": "1974916",
+		"dateTime": "May 23, 2016 at 6:55 PM EDT",
+		"tripDate": "May 23, 2016",
+		"distance": 37.9,
+		"averageSpeed": 32.31,
+		"totalConsumption": 3.91,
+		"travelTime": 70
+	},
+	{
+		"vehicleStatisticsId": "1981592",
+		"dateTime": "May 23, 2016 at 10:49 PM EDT",
+		"tripDate": "May 23, 2016",
+		"distance": 19.88,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.41,
+		"travelTime": 41
+	},
+	{
+		"vehicleStatisticsId": "1984139",
+		"dateTime": "May 24, 2016 at 10:30 AM EDT",
+		"tripDate": "May 24, 2016",
+		"distance": 1.24,
+		"averageSpeed": 14.91,
+		"totalConsumption": 4.01,
+		"travelTime": 5
+	},
+	{
+		"vehicleStatisticsId": "1987376",
+		"dateTime": "May 24, 2016 at 3:55 PM EDT",
+		"tripDate": "May 24, 2016",
+		"distance": 12.43,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.6,
+		"travelTime": 28
+	},
+	{
+		"vehicleStatisticsId": "1992391",
+		"dateTime": "May 25, 2016 at 2:36 PM EDT",
+		"tripDate": "May 25, 2016",
+		"distance": 21.75,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.71,
+		"travelTime": 45
+	},
+	{
+		"vehicleStatisticsId": "1995730",
+		"dateTime": "May 25, 2016 at 6:10 PM EDT",
+		"tripDate": "May 25, 2016",
+		"distance": 15.53,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.01,
+		"travelTime": 36
+	},
+	{
+		"vehicleStatisticsId": "2008343",
+		"dateTime": "May 26, 2016 at 7:38 PM EDT",
+		"tripDate": "May 26, 2016",
+		"distance": 27.34,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.23,
+		"travelTime": 62
+	},
+	{
+		"vehicleStatisticsId": "2011763",
+		"dateTime": "May 26, 2016 at 10:27 PM EDT",
+		"tripDate": "May 26, 2016",
+		"distance": 15.53,
+		"averageSpeed": 34.18,
+		"totalConsumption": 4.41,
+		"travelTime": 27
+	},
+	{
+		"vehicleStatisticsId": "2012095",
+		"dateTime": "May 27, 2016 at 11:49 AM EDT",
+		"tripDate": "May 27, 2016",
+		"distance": 26.1,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.93,
+		"travelTime": 53
+	},
+	{
+		"vehicleStatisticsId": "2015768",
+		"dateTime": "May 28, 2016 at 9:42 AM EDT",
+		"tripDate": "May 28, 2016",
+		"distance": 15.53,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.32,
+		"travelTime": 36
+	},
+	{
+		"vehicleStatisticsId": "2021082",
+		"dateTime": "May 28, 2016 at 5:37 PM EDT",
+		"tripDate": "May 28, 2016",
+		"distance": 24.23,
+		"averageSpeed": 22.99,
+		"totalConsumption": 4.32,
+		"travelTime": 63
+	},
+	{
+		"vehicleStatisticsId": "2031306",
+		"dateTime": "May 29, 2016 at 5:17 PM EDT",
+		"tripDate": "May 29, 2016",
+		"distance": 6.84,
+		"averageSpeed": 14.29,
+		"totalConsumption": 4.23,
+		"travelTime": 29
+	},
+	{
+		"vehicleStatisticsId": "2031031",
+		"dateTime": "May 29, 2016 at 9:54 PM EDT",
+		"tripDate": "May 29, 2016",
+		"distance": 6.21,
+		"averageSpeed": 36.04,
+		"totalConsumption": 4.41,
+		"travelTime": 10
+	},
+	{
+		"vehicleStatisticsId": "2032618",
+		"dateTime": "May 31, 2016 at 9:28 AM EDT",
+		"tripDate": "May 31, 2016",
+		"distance": 39.77,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.32,
+		"travelTime": 84
+	},
+	{
+		"vehicleStatisticsId": "2037984",
+		"dateTime": "May 31, 2016 at 10:47 AM EDT",
+		"tripDate": "May 31, 2016",
+		"distance": 13.67,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.5,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "2042545",
+		"dateTime": "May 31, 2016 at 6:09 PM EDT",
+		"tripDate": "May 31, 2016",
+		"distance": 22.37,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.5,
+		"travelTime": 49
+	},
+	{
+		"vehicleStatisticsId": "2050273",
+		"dateTime": "Jun 01, 2016 at 10:55 AM EDT",
+		"tripDate": "Jun 01, 2016",
+		"distance": 9.32,
+		"averageSpeed": 24.85,
+		"totalConsumption": 3.72,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2052601",
+		"dateTime": "Jun 01, 2016 at 5:18 PM EDT",
+		"tripDate": "Jun 01, 2016",
+		"distance": 29.2,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.32,
+		"travelTime": 60
+	},
+	{
+		"vehicleStatisticsId": "2057481",
+		"dateTime": "Jun 02, 2016 at 7:48 AM EDT",
+		"tripDate": "Jun 02, 2016",
+		"distance": 11.18,
+		"averageSpeed": 26.72,
+		"totalConsumption": 5.01,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "2061419",
+		"dateTime": "Jun 02, 2016 at 12:10 PM EDT",
+		"tripDate": "Jun 02, 2016",
+		"distance": 9.32,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.71,
+		"travelTime": 17
+	},
+	{
+		"vehicleStatisticsId": "2061837",
+		"dateTime": "Jun 02, 2016 at 8:40 PM EDT",
+		"tripDate": "Jun 02, 2016",
+		"distance": 30.45,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.5,
+		"travelTime": 68
+	},
+	{
+		"vehicleStatisticsId": "2068041",
+		"dateTime": "Jun 03, 2016 at 12:04 PM EDT",
+		"tripDate": "Jun 03, 2016",
+		"distance": 35.42,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.32,
+		"travelTime": 67
+	},
+	{
+		"vehicleStatisticsId": "2072795",
+		"dateTime": "Jun 03, 2016 at 6:08 PM EDT",
+		"tripDate": "Jun 03, 2016",
+		"distance": 10.56,
+		"averageSpeed": 22.99,
+		"totalConsumption": 3.61,
+		"travelTime": 27
+	},
+	{
+		"vehicleStatisticsId": "2077624",
+		"dateTime": "Jun 04, 2016 at 9:31 AM EDT",
+		"tripDate": "Jun 04, 2016",
+		"distance": 3.73,
+		"averageSpeed": 29.2,
+		"totalConsumption": 3.81,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2085498",
+		"dateTime": "Jun 05, 2016 at 10:52 AM EDT",
+		"tripDate": "Jun 05, 2016",
+		"distance": 20.51,
+		"averageSpeed": 39.15,
+		"totalConsumption": 4.41,
+		"travelTime": 31
+	},
+	{
+		"vehicleStatisticsId": "2088522",
+		"dateTime": "Jun 05, 2016 at 6:25 PM EDT",
+		"tripDate": "Jun 05, 2016",
+		"distance": 3.11,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.32,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2090683",
+		"dateTime": "Jun 06, 2016 at 8:14 AM EDT",
+		"tripDate": "Jun 06, 2016",
+		"distance": 11.18,
+		"averageSpeed": 29.83,
+		"totalConsumption": 5.01,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2096172",
+		"dateTime": "Jun 06, 2016 at 7:17 PM EDT",
+		"tripDate": "Jun 06, 2016",
+		"distance": 22.99,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.5,
+		"travelTime": 48
+	},
+	{
+		"vehicleStatisticsId": "2100878",
+		"dateTime": "Jun 07, 2016 at 9:55 AM EDT",
+		"tripDate": "Jun 07, 2016",
+		"distance": 10.56,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.41,
+		"travelTime": 20
+	},
+	{
+		"vehicleStatisticsId": "2105336",
+		"dateTime": "Jun 07, 2016 at 6:33 PM EDT",
+		"tripDate": "Jun 07, 2016",
+		"distance": 23.61,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.32,
+		"travelTime": 55
+	},
+	{
+		"vehicleStatisticsId": "2109365",
+		"dateTime": "Jun 07, 2016 at 8:50 PM EDT",
+		"tripDate": "Jun 07, 2016",
+		"distance": 6.84,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.93,
+		"travelTime": 13
+	},
+	{
+		"vehicleStatisticsId": "2111220",
+		"dateTime": "Jun 08, 2016 at 8:12 AM EDT",
+		"tripDate": "Jun 08, 2016",
+		"distance": 11.81,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.82,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2112656",
+		"dateTime": "Jun 08, 2016 at 11:22 AM EDT",
+		"tripDate": "Jun 08, 2016",
+		"distance": 9.94,
+		"averageSpeed": 29.83,
+		"totalConsumption": 5.01,
+		"travelTime": 20
+	},
+	{
+		"vehicleStatisticsId": "2114628",
+		"dateTime": "Jun 08, 2016 at 7:35 PM EDT",
+		"tripDate": "Jun 08, 2016",
+		"distance": 39.77,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.6,
+		"travelTime": 85
+	},
+	{
+		"vehicleStatisticsId": "2124340",
+		"dateTime": "Jun 09, 2016 at 5:18 PM EDT",
+		"tripDate": "Jun 09, 2016",
+		"distance": 22.99,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.01,
+		"travelTime": 47
+	},
+	{
+		"vehicleStatisticsId": "2131234",
+		"dateTime": "Jun 10, 2016 at 6:05 PM EDT",
+		"tripDate": "Jun 10, 2016",
+		"distance": 41.63,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.32,
+		"travelTime": 89
+	},
+	{
+		"vehicleStatisticsId": "2151548",
+		"dateTime": "Jun 12, 2016 at 7:19 PM EDT",
+		"tripDate": "Jun 12, 2016",
+		"distance": 3.11,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.23,
+		"travelTime": 6
+	},
+	{
+		"vehicleStatisticsId": "2154303",
+		"dateTime": "Jun 13, 2016 at 9:11 AM EDT",
+		"tripDate": "Jun 13, 2016",
+		"distance": 37.9,
+		"averageSpeed": 26.1,
+		"totalConsumption": 5.14,
+		"travelTime": 88
+	},
+	{
+		"vehicleStatisticsId": "2156281",
+		"dateTime": "Jun 13, 2016 at 1:16 PM EDT",
+		"tripDate": "Jun 13, 2016",
+		"distance": 38.52,
+		"averageSpeed": 37.28,
+		"totalConsumption": 4.12,
+		"travelTime": 62
+	},
+	{
+		"vehicleStatisticsId": "2157069",
+		"dateTime": "Jun 13, 2016 at 6:11 PM EDT",
+		"tripDate": "Jun 13, 2016",
+		"distance": 3.73,
+		"averageSpeed": 24.23,
+		"totalConsumption": 3.11,
+		"travelTime": 8
+	},
+	{
+		"vehicleStatisticsId": "2162590",
+		"dateTime": "Jun 14, 2016 at 9:31 AM EDT",
+		"tripDate": "Jun 14, 2016",
+		"distance": 41.63,
+		"averageSpeed": 24.85,
+		"totalConsumption": 5.22,
+		"travelTime": 98
+	},
+	{
+		"vehicleStatisticsId": "2165636",
+		"dateTime": "Jun 14, 2016 at 4:37 PM EDT",
+		"tripDate": "Jun 14, 2016",
+		"distance": 41.01,
+		"averageSpeed": 34.18,
+		"totalConsumption": 3.91,
+		"travelTime": 71
+	},
+	{
+		"vehicleStatisticsId": "2167951",
+		"dateTime": "Jun 14, 2016 at 4:56 PM EDT",
+		"tripDate": "Jun 14, 2016",
+		"distance": 9.94,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.5,
+		"travelTime": 18
+	},
+	{
+		"vehicleStatisticsId": "2170487",
+		"dateTime": "Jun 14, 2016 at 8:12 PM EDT",
+		"tripDate": "Jun 14, 2016",
+		"distance": 13.05,
+		"averageSpeed": 34.18,
+		"totalConsumption": 5.22,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2172830",
+		"dateTime": "Jun 15, 2016 at 9:19 AM EDT",
+		"tripDate": "Jun 15, 2016",
+		"distance": 39.77,
+		"averageSpeed": 24.23,
+		"totalConsumption": 5.01,
+		"travelTime": 97
+	},
+	{
+		"vehicleStatisticsId": "2177188",
+		"dateTime": "Jun 15, 2016 at 1:10 PM EDT",
+		"tripDate": "Jun 15, 2016",
+		"distance": 40.39,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.12,
+		"travelTime": 75
+	},
+	{
+		"vehicleStatisticsId": "2179321",
+		"dateTime": "Jun 15, 2016 at 6:18 PM EDT",
+		"tripDate": "Jun 15, 2016",
+		"distance": 6.21,
+		"averageSpeed": 21.75,
+		"totalConsumption": 4.41,
+		"travelTime": 17
+	},
+	{
+		"vehicleStatisticsId": "2179105",
+		"dateTime": "Jun 15, 2016 at 9:04 PM EDT",
+		"tripDate": "Jun 15, 2016",
+		"distance": 6.21,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.41,
+		"travelTime": 13
+	},
+	{
+		"vehicleStatisticsId": "2181918",
+		"dateTime": "Jun 16, 2016 at 1:14 PM EDT",
+		"tripDate": "Jun 16, 2016",
+		"distance": 74.56,
+		"averageSpeed": 14.29,
+		"totalConsumption": 4.32,
+		"travelTime": 315
+	},
+	{
+		"vehicleStatisticsId": "2189177",
+		"dateTime": "Jun 16, 2016 at 5:53 PM EDT",
+		"tripDate": "Jun 16, 2016",
+		"distance": 3.73,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.12,
+		"travelTime": 8
+	},
+	{
+		"vehicleStatisticsId": "2204938",
+		"dateTime": "Jun 18, 2016 at 5:06 PM EDT",
+		"tripDate": "Jun 18, 2016",
+		"distance": 18.02,
+		"averageSpeed": 29.83,
+		"totalConsumption": 5.01,
+		"travelTime": 36
+	},
+	{
+		"vehicleStatisticsId": "2211210",
+		"dateTime": "Jun 19, 2016 at 1:18 PM EDT",
+		"tripDate": "Jun 19, 2016",
+		"distance": 12.43,
+		"averageSpeed": 32.93,
+		"totalConsumption": 5.14,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2212239",
+		"dateTime": "Jun 19, 2016 at 5:48 PM EDT",
+		"tripDate": "Jun 19, 2016",
+		"distance": 21.75,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.41,
+		"travelTime": 44
+	},
+	{
+		"vehicleStatisticsId": "2214283",
+		"dateTime": "Jun 19, 2016 at 8:58 PM EDT",
+		"tripDate": "Jun 19, 2016",
+		"distance": 3.11,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.01,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2217366",
+		"dateTime": "Jun 20, 2016 at 11:40 AM EDT",
+		"tripDate": "Jun 20, 2016",
+		"distance": 36.04,
+		"averageSpeed": 37.9,
+		"totalConsumption": 4.82,
+		"travelTime": 57
+	},
+	{
+		"vehicleStatisticsId": "2219481",
+		"dateTime": "Jun 20, 2016 at 6:32 PM EDT",
+		"tripDate": "Jun 20, 2016",
+		"distance": 32.93,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.01,
+		"travelTime": 76
+	},
+	{
+		"vehicleStatisticsId": "2228297",
+		"dateTime": "Jun 21, 2016 at 6:45 PM EDT",
+		"tripDate": "Jun 21, 2016",
+		"distance": 15.53,
+		"averageSpeed": 29.2,
+		"totalConsumption": 3.72,
+		"travelTime": 32
+	},
+	{
+		"vehicleStatisticsId": "2234779",
+		"dateTime": "Jun 22, 2016 at 11:11 AM EDT",
+		"tripDate": "Jun 22, 2016",
+		"distance": 9.94,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.82,
+		"travelTime": 19
+	},
+	{
+		"vehicleStatisticsId": "2238561",
+		"dateTime": "Jun 22, 2016 at 6:06 PM EDT",
+		"tripDate": "Jun 22, 2016",
+		"distance": 29.2,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.23,
+		"travelTime": 57
+	},
+	{
+		"vehicleStatisticsId": "2242850",
+		"dateTime": "Jun 23, 2016 at 9:26 AM EDT",
+		"tripDate": "Jun 23, 2016",
+		"distance": 3.73,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.82,
+		"travelTime": 6
+	},
+	{
+		"vehicleStatisticsId": "2246309",
+		"dateTime": "Jun 23, 2016 at 5:21 PM EDT",
+		"tripDate": "Jun 23, 2016",
+		"distance": 27.96,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.41,
+		"travelTime": 66
+	},
+	{
+		"vehicleStatisticsId": "2249399",
+		"dateTime": "Jun 23, 2016 at 6:05 PM EDT",
+		"tripDate": "Jun 23, 2016",
+		"distance": 29.2,
+		"averageSpeed": 24.85,
+		"totalConsumption": 4.32,
+		"travelTime": 70
+	},
+	{
+		"vehicleStatisticsId": "2254205",
+		"dateTime": "Jun 24, 2016 at 6:11 PM EDT",
+		"tripDate": "Jun 24, 2016",
+		"distance": 37.28,
+		"averageSpeed": 21.75,
+		"totalConsumption": 3.91,
+		"travelTime": 103
+	},
+	{
+		"vehicleStatisticsId": "2262870",
+		"dateTime": "Jun 25, 2016 at 10:12 AM EDT",
+		"tripDate": "Jun 25, 2016",
+		"distance": 9.32,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.12,
+		"travelTime": 19
+	},
+	{
+		"vehicleStatisticsId": "2265467",
+		"dateTime": "Jun 25, 2016 at 4:49 PM EDT",
+		"tripDate": "Jun 25, 2016",
+		"distance": 21.75,
+		"averageSpeed": 29.2,
+		"totalConsumption": 3.91,
+		"travelTime": 45
+	},
+	{
+		"vehicleStatisticsId": "2268957",
+		"dateTime": "Jun 26, 2016 at 1:08 PM EDT",
+		"tripDate": "Jun 26, 2016",
+		"distance": 29.2,
+		"averageSpeed": 21.75,
+		"totalConsumption": 4.5,
+		"travelTime": 77
+	},
+	{
+		"vehicleStatisticsId": "2271563",
+		"dateTime": "Jun 26, 2016 at 3:28 PM EDT",
+		"tripDate": "Jun 26, 2016",
+		"distance": 3.73,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.32,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2274985",
+		"dateTime": "Jun 27, 2016 at 11:25 AM EDT",
+		"tripDate": "Jun 27, 2016",
+		"distance": 24.23,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.5,
+		"travelTime": 56
+	},
+	{
+		"vehicleStatisticsId": "2279681",
+		"dateTime": "Jun 27, 2016 at 6:09 PM EDT",
+		"tripDate": "Jun 27, 2016",
+		"distance": 25.48,
+		"averageSpeed": 22.99,
+		"totalConsumption": 3.81,
+		"travelTime": 67
+	},
+	{
+		"vehicleStatisticsId": "2285689",
+		"dateTime": "Jun 28, 2016 at 6:49 PM EDT",
+		"tripDate": "Jun 28, 2016",
+		"distance": 32.31,
+		"averageSpeed": 24.23,
+		"totalConsumption": 4.12,
+		"travelTime": 83
+	},
+	{
+		"vehicleStatisticsId": "2294781",
+		"dateTime": "Jun 29, 2016 at 9:29 AM EDT",
+		"tripDate": "Jun 29, 2016",
+		"distance": 13.05,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.5,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "2296780",
+		"dateTime": "Jun 29, 2016 at 12:36 PM EDT",
+		"tripDate": "Jun 29, 2016",
+		"distance": 6.21,
+		"averageSpeed": 19.26,
+		"totalConsumption": 4.32,
+		"travelTime": 19
+	},
+	{
+		"vehicleStatisticsId": "2298963",
+		"dateTime": "Jun 29, 2016 at 7:09 PM EDT",
+		"tripDate": "Jun 29, 2016",
+		"distance": 7.46,
+		"averageSpeed": 26.72,
+		"totalConsumption": 3.61,
+		"travelTime": 16
+	},
+	{
+		"vehicleStatisticsId": "2306365",
+		"dateTime": "Jun 30, 2016 at 11:04 AM EDT",
+		"tripDate": "Jun 30, 2016",
+		"distance": 12.43,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.6,
+		"travelTime": 24
+	},
+	{
+		"vehicleStatisticsId": "2307579",
+		"dateTime": "Jun 30, 2016 at 6:45 PM EDT",
+		"tripDate": "Jun 30, 2016",
+		"distance": 21.75,
+		"averageSpeed": 26.72,
+		"totalConsumption": 4.12,
+		"travelTime": 48
+	},
+	{
+		"vehicleStatisticsId": "2456349",
+		"dateTime": "Jul 18, 2016 at 12:41 PM EDT",
+		"tripDate": "Jul 18, 2016",
+		"distance": 16.78,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.23,
+		"travelTime": 33
+	},
+	{
+		"vehicleStatisticsId": "2457971",
+		"dateTime": "Jul 18, 2016 at 6:09 PM EDT",
+		"tripDate": "Jul 18, 2016",
+		"distance": 4.35,
+		"averageSpeed": 26.1,
+		"totalConsumption": 3.72,
+		"travelTime": 9
+	},
+	{
+		"vehicleStatisticsId": "2461886",
+		"dateTime": "Jul 18, 2016 at 9:36 PM EDT",
+		"tripDate": "Jul 18, 2016",
+		"distance": 14.29,
+		"averageSpeed": 34.18,
+		"totalConsumption": 4.93,
+		"travelTime": 25
+	},
+	{
+		"vehicleStatisticsId": "2464707",
+		"dateTime": "Jul 19, 2016 at 8:21 AM EDT",
+		"tripDate": "Jul 19, 2016",
+		"distance": 1.24,
+		"averageSpeed": 14.91,
+		"totalConsumption": 3.11,
+		"travelTime": 5
+	},
+	{
+		"vehicleStatisticsId": "2469215",
+		"dateTime": "Jul 19, 2016 at 6:49 PM EDT",
+		"tripDate": "Jul 19, 2016",
+		"distance": 16.78,
+		"averageSpeed": 24.85,
+		"totalConsumption": 3.91,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "2474433",
+		"dateTime": "Jul 20, 2016 at 8:12 AM EDT",
+		"tripDate": "Jul 20, 2016",
+		"distance": 11.81,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.93,
+		"travelTime": 23
+	},
+	{
+		"vehicleStatisticsId": "2475817",
+		"dateTime": "Jul 20, 2016 at 10:45 AM EDT",
+		"tripDate": "Jul 20, 2016",
+		"distance": 10.56,
+		"averageSpeed": 34.18,
+		"totalConsumption": 4.23,
+		"travelTime": 18
+	},
+	{
+		"vehicleStatisticsId": "2478742",
+		"dateTime": "Jul 20, 2016 at 6:06 PM EDT",
+		"tripDate": "Jul 20, 2016",
+		"distance": 25.48,
+		"averageSpeed": 22.99,
+		"totalConsumption": 3.91,
+		"travelTime": 67
+	},
+	{
+		"vehicleStatisticsId": "2488460",
+		"dateTime": "Jul 21, 2016 at 6:09 PM EDT",
+		"tripDate": "Jul 21, 2016",
+		"distance": 44.12,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.6,
+		"travelTime": 85
+	},
+	{
+		"vehicleStatisticsId": "2492475",
+		"dateTime": "Jul 21, 2016 at 8:32 PM EDT",
+		"tripDate": "Jul 21, 2016",
+		"distance": 3.11,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.32,
+		"travelTime": 6
+	},
+	{
+		"vehicleStatisticsId": "2495361",
+		"dateTime": "Jul 21, 2016 at 11:45 PM EDT",
+		"tripDate": "Jul 21, 2016",
+		"distance": 3.11,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.23,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2494634",
+		"dateTime": "Jul 22, 2016 at 7:35 AM EDT",
+		"tripDate": "Jul 22, 2016",
+		"distance": 6.21,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.41,
+		"travelTime": 12
+	},
+	{
+		"vehicleStatisticsId": "2494635",
+		"dateTime": "Jul 22, 2016 at 8:22 AM EDT",
+		"tripDate": "Jul 22, 2016",
+		"distance": 11.81,
+		"averageSpeed": 29.83,
+		"totalConsumption": 4.6,
+		"travelTime": 24
+	},
+	{
+		"vehicleStatisticsId": "2494933",
+		"dateTime": "Jul 22, 2016 at 10:30 AM EDT",
+		"tripDate": "Jul 22, 2016",
+		"distance": 22.99,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.71,
+		"travelTime": 44
+	},
+	{
+		"vehicleStatisticsId": "2497267",
+		"dateTime": "Jul 22, 2016 at 12:48 PM EDT",
+		"tripDate": "Jul 22, 2016",
+		"distance": 47.22,
+		"averageSpeed": 31.07,
+		"totalConsumption": 4.6,
+		"travelTime": 91
+	},
+	{
+		"vehicleStatisticsId": "2505251",
+		"dateTime": "Jul 23, 2016 at 11:03 AM EDT",
+		"tripDate": "Jul 23, 2016",
+		"distance": 44.74,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.6,
+		"travelTime": 81
+	},
+	{
+		"vehicleStatisticsId": "2508648",
+		"dateTime": "Jul 24, 2016 at 9:59 AM EDT",
+		"tripDate": "Jul 24, 2016",
+		"distance": 19.26,
+		"averageSpeed": 19.26,
+		"totalConsumption": 4.5,
+		"travelTime": 60
+	},
+	{
+		"vehicleStatisticsId": "2510885",
+		"dateTime": "Jul 24, 2016 at 11:29 AM EDT",
+		"tripDate": "Jul 24, 2016",
+		"distance": 40.39,
+		"averageSpeed": 39.15,
+		"totalConsumption": 4.5,
+		"travelTime": 61
+	},
+	{
+		"vehicleStatisticsId": "2514404",
+		"dateTime": "Jul 24, 2016 at 2:49 PM EDT",
+		"tripDate": "Jul 24, 2016",
+		"distance": 39.77,
+		"averageSpeed": 42.87,
+		"totalConsumption": 4.41,
+		"travelTime": 54
+	},
+	{
+		"vehicleStatisticsId": "2523145",
+		"dateTime": "Jul 25, 2016 at 3:37 PM EDT",
+		"tripDate": "Jul 25, 2016",
+		"distance": 13.05,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.23,
+		"travelTime": 24
+	},
+	{
+		"vehicleStatisticsId": "2528075",
+		"dateTime": "Jul 26, 2016 at 11:10 AM EDT",
+		"tripDate": "Jul 26, 2016",
+		"distance": 26.1,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.6,
+		"travelTime": 57
+	},
+	{
+		"vehicleStatisticsId": "2532649",
+		"dateTime": "Jul 26, 2016 at 6:50 PM EDT",
+		"tripDate": "Jul 26, 2016",
+		"distance": 26.1,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.23,
+		"travelTime": 56
+	},
+	{
+		"vehicleStatisticsId": "2541786",
+		"dateTime": "Jul 27, 2016 at 6:07 PM EDT",
+		"tripDate": "Jul 27, 2016",
+		"distance": 16.78,
+		"averageSpeed": 24.23,
+		"totalConsumption": 3.91,
+		"travelTime": 41
+	},
+	{
+		"vehicleStatisticsId": "2551184",
+		"dateTime": "Jul 28, 2016 at 11:05 AM EDT",
+		"tripDate": "Jul 28, 2016",
+		"distance": 11.18,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.41,
+		"travelTime": 20
+	},
+	{
+		"vehicleStatisticsId": "2553872",
+		"dateTime": "Jul 28, 2016 at 3:12 PM EDT",
+		"tripDate": "Jul 28, 2016",
+		"distance": 16.16,
+		"averageSpeed": 32.31,
+		"totalConsumption": 4.71,
+		"travelTime": 30
+	},
+	{
+		"vehicleStatisticsId": "2554575",
+		"dateTime": "Jul 28, 2016 at 6:08 PM EDT",
+		"tripDate": "Jul 28, 2016",
+		"distance": 6.84,
+		"averageSpeed": 26.1,
+		"totalConsumption": 3.72,
+		"travelTime": 16
+	},
+	{
+		"vehicleStatisticsId": "2559361",
+		"dateTime": "Jul 29, 2016 at 8:11 AM EDT",
+		"tripDate": "Jul 29, 2016",
+		"distance": 11.81,
+		"averageSpeed": 34.18,
+		"totalConsumption": 4.5,
+		"travelTime": 20
+	},
+	{
+		"vehicleStatisticsId": "2562678",
+		"dateTime": "Jul 29, 2016 at 6:35 PM EDT",
+		"tripDate": "Jul 29, 2016",
+		"distance": 27.34,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.23,
+		"travelTime": 59
+	},
+	{
+		"vehicleStatisticsId": "2566107",
+		"dateTime": "Jul 29, 2016 at 10:41 PM EDT",
+		"tripDate": "Jul 29, 2016",
+		"distance": 11.81,
+		"averageSpeed": 32.93,
+		"totalConsumption": 5.01,
+		"travelTime": 21
+	},
+	{
+		"vehicleStatisticsId": "2570466",
+		"dateTime": "Jul 30, 2016 at 8:14 AM EDT",
+		"tripDate": "Jul 30, 2016",
+		"distance": 3.73,
+		"averageSpeed": 29.2,
+		"totalConsumption": 4.32,
+		"travelTime": 7
+	},
+	{
+		"vehicleStatisticsId": "2571132",
+		"dateTime": "Jul 30, 2016 at 4:44 PM EDT",
+		"tripDate": "Jul 30, 2016",
+		"distance": 21.13,
+		"averageSpeed": 27.96,
+		"totalConsumption": 4.12,
+		"travelTime": 46
+	},
+	{
+		"vehicleStatisticsId": "2574624",
+		"dateTime": "Jul 30, 2016 at 7:50 PM EDT",
+		"tripDate": "Jul 30, 2016",
+		"distance": 36.04,
+		"averageSpeed": 47.85,
+		"totalConsumption": 4.41,
+		"travelTime": 44
+	},
+	{
+		"vehicleStatisticsId": "2575132",
+		"dateTime": "Jul 30, 2016 at 11:24 PM EDT",
+		"tripDate": "Jul 30, 2016",
+		"distance": 36.04,
+		"averageSpeed": 50.95,
+		"totalConsumption": 4.12,
+		"travelTime": 42
+	},
+	{
+		"vehicleStatisticsId": "2615266",
+		"dateTime": "Aug 04, 2016 at 10:38 AM EDT",
+		"tripDate": "Aug 04, 2016",
+		"distance": 4.35,
+		"averageSpeed": 19.26,
+		"totalConsumption": 3.91,
+		"travelTime": 14
+	},
+	{
+		"vehicleStatisticsId": "2618815",
+		"dateTime": "Aug 04, 2016 at 5:25 PM EDT",
+		"tripDate": "Aug 04, 2016",
+		"distance": 3.73,
+		"averageSpeed": 4.97,
+		"totalConsumption": 2.2,
+		"travelTime": 43
+	},
+	{
+		"vehicleStatisticsId": "2630734",
+		"dateTime": "Aug 05, 2016 at 9:43 PM EDT",
+		"tripDate": "Aug 05, 2016",
+		"distance": 31.07,
+		"averageSpeed": 36.04,
+		"totalConsumption": 4.01,
+		"travelTime": 52
+	},
+	{
+		"vehicleStatisticsId": "2635249",
+		"dateTime": "Aug 06, 2016 at 12:52 AM EDT",
+		"tripDate": "Aug 06, 2016",
+		"distance": 22.37,
+		"averageSpeed": 32.93,
+		"totalConsumption": 4.6,
+		"travelTime": 40
+	},
+	{
+		"vehicleStatisticsId": "2637525",
+		"dateTime": "Aug 06, 2016 at 4:08 PM EDT",
+		"tripDate": "Aug 06, 2016",
+		"distance": 9.32,
+		"averageSpeed": 18.02,
+		"totalConsumption": 3.72,
+		"travelTime": 31
+	},
+	{
+		"vehicleStatisticsId": "2640857",
+		"dateTime": "Aug 06, 2016 at 11:39 PM EDT",
+		"tripDate": "Aug 06, 2016",
+		"distance": 9.32,
+		"averageSpeed": 34.18,
+		"totalConsumption": 5.22,
+		"travelTime": 17
+	},
+	{
+		"vehicleStatisticsId": "2652959",
+		"dateTime": "Aug 08, 2016 at 8:00 PM EDT",
+		"tripDate": "Aug 08, 2016",
+		"distance": 41.63,
+		"averageSpeed": 26.1,
+		"totalConsumption": 4.23,
+		"travelTime": 94
+	},
+	{
+		"vehicleStatisticsId": "2659768",
+		"dateTime": "Aug 09, 2016 at 9:29 AM EDT",
+		"tripDate": "Aug 09, 2016",
+		"distance": 6.84,
+		"averageSpeed": 21.13,
+		"totalConsumption": 4.5,
+		"travelTime": 19
+	}
+]
